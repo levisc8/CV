@@ -1,0 +1,283 @@
+\documentclass[11pt,]{article}
+\usepackage[sc, osf]{mathpazo}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+
+
+
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% Now begins the stuff that I added.
+% ----------------------------------
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\large\bf}
+\subsectionfont{\rmfamily\mdseries\normalsize\itshape}
+
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+
+% Make parskips rather than indent with lists.
+\usepackage{parskip}
+\usepackage{titlesec}
+\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+
+% Use fontawesome. Note: you'll need TeXLive 2015. Update.
+\usepackage{fontawesome}
+
+% Fancyhdr, as I tend to do with these personal documents.
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{
+\cfoot{\scriptsize  Sam C. Levin - CV }}
+\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+
+% Always load hyperref last.
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+
+\hypersetup{unicode=true,
+            pdftitle={Sam C. Levin:  CV (Curriculum Vitae)},
+            pdfauthor={Sam C. Levin},
+            colorlinks=true,
+            linkcolor=blue,
+            citecolor=Blue,
+            urlcolor=blue,
+            breaklinks=true, bookmarks=true}
+\urlstyle{same}  % don't use monospace font for urls
+
+\begin{document}
+
+
+\centerline{\huge \bf Sam C. Levin}
+
+\vspace{2 mm}
+
+\hrule
+
+\vspace{2 mm}
+
+
+\moveleft.5\hoffset\centerline{German Centre for Integrative Biodiversity, Deutscherplatz 5e, Leipzig,
+Germany}
+\moveleft.5\hoffset\centerline{ \faEnvelopeO \hspace{1 mm} \href{mailto:}{\tt \href{mailto:levisc8@gmail.com}{\nolinkurl{levisc8@gmail.com}}} \hspace{1 mm}  \faGithub \hspace{1 mm} \href{http://github.com/levisc8}{\tt levisc8} \hspace{1 mm}   \faTwitter \hspace{1 mm} \href{https:/twitter.com/SamLevin5}{\tt SamLevin5} \hspace{1 mm}   }
+
+\vspace{2 mm}
+
+\hrule
+
+
+\section{Education}\label{education}
+
+\emph{Martin Luther University Halle-Wittenberg}
+
+PhD Biology \hfill 2018-Present
+
+\emph{Martin Luther University Halle-Wittenberg}
+
+MSc Biology \hfill 2016-2017
+
+\emph{Wake Forest University}
+
+BA Biology \hfill 2008-2012
+
+\section{Work Experience}\label{work-experience}
+
+\emph{Martin Luther University Halle-Wittenberg}
+
+Research Officer \hfill 2018-Present
+
+\emph{Helmholtz-Zentrum für Umweltforschung }
+
+Student Research Assistant \hfill 2017
+
+\emph{German Centre for Integrative Biodiversity}
+
+Student Research Assistant \hfill 2016 - 2018
+
+\emph{University of Missouri-St.~Louis}
+
+Field Research Technician \hfill 2015 - 2016
+
+\emph{Washington University in St.~Louis}
+
+Field Research Technician \hfill 2014 - 2015
+
+\emph{Student Conservation Association}
+
+National Park Service Southeast EPMT Intern \hfill 2013 - 2014
+
+\section{Research Interests}\label{research-interests}
+
+\textbf{Demography}: what is the relative importance of life history,
+abiotic, and biotic factors in determining species success
+
+\textbf{Invasions}: understanding how demography, phylogeny, and
+functional traits interact to determine who becomes invasive and who
+remains benign
+
+\textbf{Open-source Software}: creating tools for researchers to
+efficiently analyze, publish, and share their data
+
+\section{Publications}\label{publications}
+
+\subsection{Journal Articles}\label{journal-articles}
+
+Carl G, \textbf{Levin SC,} Kühn I. (2018) spind: an R Package to Account
+for Spatial Autocorrelation in the Analysis of Lattice Data.
+Biodiversity Data Journal. 6: e20760. DOI:
+\url{https://doi.org/10.3897/BDJ.6.e20760}
+
+\subsection{Presentations}\label{presentations}
+
+\(\ast\) \emph{denotes mentee; \# denotes poster presentations,
+otherwise oral}
+
+\textbf{2018}
+
+\textbf{Levin SC}, RM Crandall, TC Pokoski, Stein C, Knight TM.
+Mechanisms underlying the differential success of alien plant species.
+Ecological Society of America -- New Orleans, USA
+
+\textbf{2016}
+
+\textbf{Levin SC}, Stein C, Knight TM. Phylogenetic novelty alters the
+strength of biotic interactions for exotic plant species. NeoBiota 2016
+-- Vianden, Luxembourg
+
+\textbf{Levin SC}, Stein C, Knight TM. Phylogenetic novelty alters the
+strength of biotic interactions for exotic plant species. iDiv
+Conference -- Leipzig, Germany
+
+\textbf{2015}
+
+Poor E\(\ast\),Thompson AH\(\ast\), \textbf{Levin SC}, Knight TM. Novel
+functional traits aid the success of the invasive biennial Carduus
+nutans. Washington University in St.~Louis Undergraduate Research
+Symposium -- St.~Louis, MO \#
+
+Workman M\(\ast\), Thompson AH\(\ast\), \textbf{Levin SC}, Knight TM.
+Competitive release may increase the fitness of exotic plants in their
+novel range. Washington University in St.~Louis Undergraduate Research
+Symposium -- St.~Louis, MO \#
+
+\textbf{2014}
+
+Patterson A\(\ast\), Galluppi CG, \textbf{Levin SC}, Maynard EE, Knight
+TM. How plant species become common: examining the success strategies of
+native and invasive plants. Washington University in St.~Louis
+Undergraduate Research Symposium -- St.~Louis, MO \#
+
+Van Horn T\(\ast\), Galluppi CG, \textbf{Levin SC}, Knight TM. Examining
+the enemy release hypothesis in Ozark woody species. Washington
+University in St.~Louis Undergraduate Research Symposium -- St.~Louis,
+MO \#
+
+\section{Software}\label{software}
+
+Maintainer (current) and developer (\textgreater{} v2.0.0) of
+\emph{spind}.
+\href{https://cran.r-project.org/web/checks/check_results_spind.html}{CRAN}
+and \href{https://github.com/levisc8/spind}{Github}
+
+Contributed to development of
+\href{https://github.com/AldoCompagnoni/popler}{popler},
+\href{https://github.com/iainmstott/popdemo}{popdemo},
+\href{https://github.com/jonesor/Rcompadre}{Rcompadre}, and
+\href{https://github.com/jonesor/Rage}{Rage}.
+
+\section{Languages}\label{languages}
+
+Fluent in English and \emph{R}, proficient with Stan, Git, and C++, and
+familiar with Python and German.
+
+\section{Mentoring}\label{mentoring}
+
+Tyler Pokoski \hfill  University of Iowa 2017
+
+Tom Collins \hfill Missouri S\&T 2017
+
+Amy Patterson \hfill Washington University in St.~Louis 2015
+
+Amibeth Thompson \hfill Illinois College 2014
+
+Sami Hunkler \hfill University of California, Berkeley 2017
+
+Thomas Van Horn \hfill Washington University in St.~Louis 2018
+
+Sarah Link \hfill Eureka High School 2015
+
+Brenda Alvarado \hfill Francis Howell North 2015
+
+Matilda Workman \hfill Kirkwood High School 2017
+
+Elizabeth Poor \hfill Clayton High School 2017
+
+\section{Service}\label{service}
+
+Reviewer for BMC Ecology
+
+\section{References}\label{references}
+
+\textbf{Dr.~Tiffany Knight}
+
+Martin Luther University, Helmholtz-Zentrum fuer Umweltforschung, German
+Centre for Integrative Biodiversity
+
+\href{mailto:tiffany.knight@idiv.de}{\nolinkurl{tiffany.knight@idiv.de}}
+
+\textbf{Dr.~Roberto Salguero-Gomez}
+
+Oxford University Department of Zoology
+
+\href{mailto:rob.salguero@zoo.ox.ac.uk}{\nolinkurl{rob.salguero@zoo.ox.ac.uk}}
+
+\end{document}

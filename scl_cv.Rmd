@@ -1,0 +1,159 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: tex_template.tex
+    keep_tex: yes
+geometry: margin=1in
+
+title: "CV"
+author: Sam C. Levin
+
+jobtitle: ""
+address: "German Centre for Integrative Biodiversity, Deutscherplatz 5e, Leipzig, Germany"
+fontawesome: yes
+email: levisc8@gmail.com
+github: levisc8
+twitter: SamLevin5
+updated: 
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Education
+
+*Martin Luther University Halle-Wittenberg*
+
+PhD Biology \hfill 2018-Present
+
+*Martin Luther University Halle-Wittenberg*
+
+MSc Biology \hfill 2016-2017
+
+*Wake Forest University*
+
+BA Biology \hfill 2008-2012
+
+# Work Experience
+
+*Martin Luther University Halle-Wittenberg*
+
+Research Officer \hfill 2018-Present
+
+*Helmholtz-Zentrum für Umweltforschung *
+
+Student Research Assistant \hfill 2017
+
+*German Centre for Integrative Biodiversity*
+
+Student Research Assistant \hfill 2016 - 2018
+
+*University of Missouri-St. Louis*
+
+Field Research Technician \hfill 2015 - 2016	
+	
+*Washington University in St. Louis*
+
+Field Research Technician \hfill 2014 - 2015
+
+*Student Conservation Association*
+
+National Park Service Southeast EPMT Intern \hfill 2013 - 2014
+
+# Research Interests
+
+**Demography**: what is the relative importance of life history, abiotic, and biotic factors in determining species success
+
+**Invasions**: understanding how demography, phylogeny, and functional traits interact to determine who becomes invasive and who remains benign
+
+**Open-source Software**: creating tools for researchers to efficiently analyze, publish, and share their data
+
+# Publications
+
+## Journal Articles
+
+Carl G, **Levin SC,** Kühn I. (2018) spind: an R Package to Account for Spatial Autocorrelation in the Analysis of Lattice Data. Biodiversity Data Journal.
+6: e20760. DOI: https://doi.org/10.3897/BDJ.6.e20760
+
+## Presentations
+$\ast$ _denotes mentee; \# denotes poster presentations, otherwise oral_
+
+
+**2018**
+
+**Levin SC**, RM Crandall, TC Pokoski, Stein C, Knight TM. Mechanisms underlying the differential success of alien plant species. Ecological Society of America – New Orleans, USA
+
+
+**2016**
+
+**Levin SC**, Stein C, Knight TM. Phylogenetic novelty alters the strength of biotic interactions for exotic plant species. NeoBiota 2016 – Vianden, Luxembourg
+
+**Levin SC**, Stein C, Knight TM. Phylogenetic novelty alters the strength of biotic interactions for exotic plant species. iDiv Conference – Leipzig, Germany
+
+
+**2015**
+
+Poor E$\ast$,Thompson AH$\ast$, **Levin SC**, Knight TM. Novel functional traits aid the success of the invasive biennial Carduus nutans. Washington University in St. Louis Undergraduate Research Symposium – St. Louis, MO \#
+
+Workman M$\ast$, Thompson AH$\ast$, **Levin SC**, Knight TM. Competitive release may increase the fitness of exotic plants in their novel range. Washington University in St. Louis Undergraduate Research Symposium – St. Louis, MO \#
+
+**2014**
+
+Patterson A$\ast$, Galluppi CG, **Levin SC**, Maynard EE, Knight TM. How plant species become common: examining the success strategies of native and invasive plants. Washington University in St. Louis Undergraduate Research Symposium – St. Louis, MO \#
+
+Van Horn T$\ast$, Galluppi CG, **Levin SC**, Knight TM. Examining the enemy release hypothesis in Ozark woody species. Washington University in St. Louis Undergraduate Research Symposium – St. Louis, MO \#
+
+# Software
+
+Maintainer (current) and developer (> v2.0.0) of *spind*. [CRAN](https://cran.r-project.org/web/checks/check_results_spind.html) and [Github](https://github.com/levisc8/spind)
+
+Contributed to development of [popler](https://github.com/AldoCompagnoni/popler), [popdemo](https://github.com/iainmstott/popdemo), [Rcompadre](https://github.com/jonesor/Rcompadre),
+and [Rage](https://github.com/jonesor/Rage).
+
+# Languages
+
+Fluent in English and _R_, proficient with Stan, Git, and C++, and familiar with Python and German.
+
+# Mentoring
+
+Tyler Pokoski \hfill  University of Iowa 2017
+
+Tom Collins \hfill Missouri S&T 2017
+
+Amy Patterson \hfill Washington University in St. Louis 2015
+
+Amibeth Thompson \hfill Illinois College 2014
+
+Sami Hunkler \hfill University of California, Berkeley 2017
+
+Thomas Van Horn \hfill Washington University in St. Louis 2018
+
+Sarah Link \hfill Eureka High School 2015
+
+Brenda Alvarado \hfill Francis Howell North 2015
+
+Matilda Workman \hfill Kirkwood High School 2017
+
+Elizabeth Poor \hfill Clayton High School 2017
+
+# Service
+
+Reviewer for BMC Ecology
+
+# References
+
+**Dr. Tiffany Knight**
+
+Martin Luther University, Helmholtz-Zentrum fuer Umweltforschung, German Centre for Integrative Biodiversity
+
+<tiffany.knight@idiv.de>
+
+**Dr. Roberto Salguero-Gomez**
+
+Oxford University Department of Zoology
+
+<rob.salguero@zoo.ox.ac.uk>
