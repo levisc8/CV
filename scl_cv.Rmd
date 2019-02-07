@@ -80,7 +80,7 @@ Carl G, **Levin SC,** Kühn I. (2018) spind: an R Package to Account for Spatial
 6: e20760. DOI: https://doi.org/10.3897/BDJ.6.e20760
 
 ## Presentations
-$\ast$ _denotes mentee; \# denotes poster presentations, otherwise oral_
+$^\ast$ _denotes mentee; $^\#$ denotes poster presentations, otherwise oral_
 
 
 **2018**
@@ -97,15 +97,15 @@ $\ast$ _denotes mentee; \# denotes poster presentations, otherwise oral_
 
 **2015**
 
-Poor E$\ast$,Thompson AH$\ast$, **Levin SC**, Knight TM. Novel functional traits aid the success of the invasive biennial Carduus nutans. Washington University in St. Louis Undergraduate Research Symposium – St. Louis, MO \#
+Poor E$^\ast$,Thompson AH$^\ast$, **Levin SC**, Knight TM. Novel functional traits aid the success of the invasive biennial Carduus nutans. Washington University in St. Louis Undergraduate Research Symposium – St. Louis, MO $^\#$
 
-Workman M$\ast$, Thompson AH$\ast$, **Levin SC**, Knight TM. Competitive release may increase the fitness of exotic plants in their novel range. Washington University in St. Louis Undergraduate Research Symposium – St. Louis, MO \#
+Workman M$^\ast$, Thompson AH$^\ast$, **Levin SC**, Knight TM. Competitive release may increase the fitness of exotic plants in their novel range. Washington University in St. Louis Undergraduate Research Symposium – St. Louis, MO $^\#$
 
 **2014**
 
-Patterson A$\ast$, Galluppi CG, **Levin SC**, Maynard EE, Knight TM. How plant species become common: examining the success strategies of native and invasive plants. Washington University in St. Louis Undergraduate Research Symposium – St. Louis, MO \#
+Patterson A$^\ast$, Galluppi CG, **Levin SC**, Maynard EE, Knight TM. How plant species become common: examining the success strategies of native and invasive plants. Washington University in St. Louis Undergraduate Research Symposium – St. Louis, MO $^\#$
 
-Van Horn T$\ast$, Galluppi CG, **Levin SC**, Knight TM. Examining the enemy release hypothesis in Ozark woody species. Washington University in St. Louis Undergraduate Research Symposium – St. Louis, MO \#
+Van Horn T$^\ast$, Galluppi CG, **Levin SC**, Knight TM. Examining the enemy release hypothesis in Ozark woody species. Washington University in St. Louis Undergraduate Research Symposium – St. Louis, MO $^\#$
 
 # Software
 
@@ -144,7 +144,7 @@ Elizabeth Poor \hfill Clayton High School 2017
 
 Reviewer for BMC Ecology
 
-# References
+# Referees
 
 **Dr. Tiffany Knight**
 
