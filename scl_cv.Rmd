@@ -116,7 +116,7 @@ and [Rage](https://github.com/jonesor/Rage).
 
 # Languages
 
-Fluent in English and _R_, proficient with Stan, Git, and C++, and familiar with Python and German.
+Fluent in English and R, proficient with Stan, Git, and C++, and familiar with Python and German.
 
 # Mentoring
 
