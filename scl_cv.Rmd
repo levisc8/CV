@@ -76,7 +76,9 @@ National Park Service Southeast EPMT Intern \hfill 2013 - 2014
 
 ## Journal Articles
 
-Carl G, **Levin SC,** Kühn I. (2018) spind: an R Package to Account for Spatial Autocorrelation in the Analysis of Lattice Data. Biodiversity Data Journal.
+**Levin SC**, Crandall RM, Knight TM (in press) Population projection models for 14 alien plant species in the presence and absence of above‐ground competition. Ecology. DOI: https://doi.org/10.1002/ecy.2681 
+
+Carl G, **Levin SC**, Kühn I. (2018) spind: an R Package to Account for Spatial Autocorrelation in the Analysis of Lattice Data. Biodiversity Data Journal.
 6: e20760. DOI: https://doi.org/10.3897/BDJ.6.e20760
 
 ## Presentations
