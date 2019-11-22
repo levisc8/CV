@@ -1,26 +1,23 @@
 ---
-output: 
+title: "CV"
+author: "Sam C. Levin"
+email: levisc8@gmail.com
+output:
   pdf_document:
+    keep_tex: yes
     latex_engine: pdflatex
     template: tex_template.tex
-    keep_tex: yes
-geometry: margin=1in
-
-title: "CV"
-author: Sam C. Levin
-
-jobtitle: ""
-address: "German Centre for Integrative Biodiversity, Deutscherplatz 5e, Leipzig, Germany"
-fontawesome: yes
-email: levisc8@gmail.com
-github: levisc8
-twitter: SamLevin5
-updated: 
-
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
+geometry: margin=1in
+github: levisc8
+jobtitle: ''
 linkcolor: blue
+fontawesome: yes
+address: German Centre for Integrative Biodiversity, Deutscherplatz 5e, Leipzig, Germany
+twitter: SamLevin5
+updated: null
 urlcolor: blue
 ---
 
@@ -70,13 +67,20 @@ National Park Service Southeast EPMT Intern \hfill 2013 - 2014
 
 **Invasions**: understanding how demography, phylogeny, and functional traits interact to determine who becomes invasive and who remains benign
 
-**Open-source Software**: creating tools for researchers to efficiently analyze, publish, and share their data
+**Open Source Software**: creating tools for researchers to efficiently analyze, publish, and share their data
 
 # Publications
 
 ## Journal Articles
+$^\ast$ _denotes mentee_
 
-**Levin SC**, Crandall RM, Knight TM (in press) Population projection models for 14 alien plant species in the presence and absence of above‐ground competition. Ecology. DOI: https://doi.org/10.1002/ecy.2681 
+**Levin SC**, Crandall RM, Pokoski TC$^\ast$, Stein  & Knight TM. Phylogenetic and functional novelty explain alien plant population responses to competition. _In review_
+
+Sandel B, Weigelt P, Kreft H, Keppel G, van der Sande MT, **Levin SC**, Smith S, Craven DC & Knight TM (2019). Current climate, isolation, and history drive global patterns of tree phylogenetic endemism. Global Ecology and Biogeography. DOI: 10.1111/geb.13001
+
+Compagnoni A, Bibian BJ, Ochocki BM, **Levin SC**, Zhu K & Miller TEX (2019). popler: an R package for extraction and synthesis of population time series from the long-term ecological research (LTER) network. Methods in Ecology and Evolution. DOI: 10.1111/2041-210X.13319
+
+**Levin SC**, Crandall RM, Knight TM (2019) Population projection models for 14 alien plant species in the presence and absence of above‐ground competition. Ecology. DOI: https://doi.org/10.1002/ecy.2681 
 
 Carl G, **Levin SC**, Kühn I. (2018) spind: an R Package to Account for Spatial Autocorrelation in the Analysis of Lattice Data. Biodiversity Data Journal.
 6: e20760. DOI: https://doi.org/10.3897/BDJ.6.e20760
