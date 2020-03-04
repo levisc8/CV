@@ -85,6 +85,14 @@ Compagnoni A, Bibian BJ, Ochocki BM, **Levin SC**, Zhu K & Miller TEX (2019). po
 Carl G, **Levin SC**, Kühn I. (2018) spind: an R Package to Account for Spatial Autocorrelation in the Analysis of Lattice Data. Biodiversity Data Journal.
 6: e20760. DOI: https://doi.org/10.3897/BDJ.6.e20760
 
+## Workshops & Invited Talks
+
+**Levin SC**. Invasive plants: research, control, and what you can do to help! Point Reyes National Park, May 2020.
+
+**Levin SC** & Salguero-Gomez R. Effective, efficient, and safe data collection with UAVs. Oxford University, January 2020.
+
+Salguero-Gomez R, Jones OR, _et al._ A gentle introduction to the COMADRE & COMPADRE databases for demographic analyses. British Ecological Society, Belfast, December 2019.
+
 ## Presentations
 $^\ast$ _denotes mentee; $^\#$ denotes poster presentations, otherwise oral_
 
@@ -117,12 +125,22 @@ Van Horn T$^\ast$, Galluppi CG, **Levin SC**, Knight TM. Examining the enemy rel
 
 Maintainer (current) and developer (> v2.0.0) of *spind*. [CRAN](https://cran.r-project.org/web/checks/check_results_spind.html) and [Github](https://github.com/levisc8/spind)
 
+Maintainer and developer of *ipmr*. [Github](https://github.com/levisc8/ipmr)
+
+Maintainer and developer of the *Padrino IPM Database* and *Rpadrino*. [Project page](https://levisc8.github.io/Padrino.github.io/)
+
 Contributed to development of [popler](https://github.com/AldoCompagnoni/popler), [popdemo](https://github.com/iainmstott/popdemo), [Rcompadre](https://github.com/jonesor/Rcompadre),
 and [Rage](https://github.com/jonesor/Rage).
 
 # Languages
 
 Fluent in English and R, proficient with Stan, Git, and C++, and familiar with Python and German.
+
+# Certifications
+
+United States FAA Part 107 UAV Pilot License
+
+United States NPS S212 A Faller
 
 # Mentoring
 
@@ -148,7 +166,7 @@ Elizabeth Poor \hfill Clayton High School 2017
 
 # Service
 
-Reviewer for BMC Ecology
+Reviewer for BMC Ecology, Annals of Botany, and Plant Ecology
 
 # Referees
 
