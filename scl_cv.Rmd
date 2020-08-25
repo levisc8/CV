@@ -72,24 +72,26 @@ National Park Service Southeast EPMT Intern \hfill 2013 - 2014
 ## Journal Articles
 $^\ast$ _denotes mentee_
 
+**Levin SC**, Evers S, Pena-Guerrero M, Compagnoni AC, Childs DZ, Knight TM & Salguero-Gomez R (_in prep_). Padrino: An open access database of Integral Projection Models.
+
 **Levin SC**, Compagnoni AC, Salguero-Gomez R, Childs DZ, Evers S & Knight TM (_in prep_). ipmr: Flexibly implement Integral Projection Models in R. 
 
 Bogdan A$^\ast$, **Levin SC**, Salguero-Gomez R & Knight TM. (_in prep_). Demographic analysis of Israeli _Carpobrotus_ populations: management strategies and future directions.
 
-Compagnoni AC, **Levin SC**, Childs DZ, Harpole S, Paniw M, Romer G, _et al._ (2020). Short-lived plants have stronger demographic responses to climate. bioRxiv. DOI: 10.1101/2020.06.18.160135
+Compagnoni AC, **Levin SC**, Childs DZ, Harpole S, Paniw M, Romer G, _et al._ (_in review_). Short-lived plants have stronger demographic responses to climate. Nature Communications. bioRxiv DOI: 10.1101/2020.06.18.160135
 
 **Levin SC**, Crandall RM, Pokoski TC$^\ast$, Stein C & Knight TM (2020). Phylogenetic and functional distinctiveness explain alien plant population responses to competition. Proceedings of the Royal Society B.  287: 20201070. DOI: 10.1098/rspb.2020.1070
 
-Paniw M, James T, Archer CR, Romer G, **Levin SC**, Compagnoni AC, _et al._ (2019) Global analysis reveals complex demographic responses of mammals to climate change. bioRxiv. DOI: 10.1101/2019.12.16.878348
+Paniw M, James T, Archer CR, Romer G, **Levin SC**, Compagnoni AC, _et al._ (_in review_). Global analysis reveals complex demographic responses of mammals to climate change.  Journal of Animal Ecology. bioRxiv DOI: 10.1101/2019.12.16.878348
 
 Sandel B, Weigelt P, Kreft H, Keppel G, van der Sande MT, **Levin SC**, Smith S, Craven DC & Knight TM (2019). Current climate, isolation, and history drive global patterns of tree phylogenetic endemism. Global Ecology and Biogeography. DOI: 10.1111/geb.13001
 
 Compagnoni A, Bibian BJ, Ochocki BM, **Levin SC**, Zhu K & Miller TEX (2019). popler: an R package for extraction and synthesis of population time series from the long-term ecological research (LTER) network. Methods in Ecology and Evolution. DOI: 10.1111/2041-210X.13319
 
-**Levin SC**, Crandall RM, Knight TM (2019) Population projection models for 14 alien plant species in the presence and absence of above‐ground competition. Ecology. DOI: https://doi.org/10.1002/ecy.2681 
+**Levin SC**, Crandall RM, Knight TM (2019) Population projection models for 14 alien plant species in the presence and absence of above‐ground competition. Ecology. DOI: 10.1002/ecy.2681 
 
 Carl G, **Levin SC**, Kühn I. (2018) spind: an R Package to Account for Spatial Autocorrelation in the Analysis of Lattice Data. Biodiversity Data Journal.
-6: e20760. DOI: https://doi.org/10.3897/BDJ.6.e20760
+6: e20760. DOI: 10.3897/BDJ.6.e20760
 
 ## Workshops & Invited Talks
 
