@@ -63,18 +63,16 @@ National Park Service Southeast EPMT Intern \hfill 2013 - 2014
 
 # Research Interests
 
-**Demography**: what is the relative importance of life history, abiotic, and biotic factors in determining species success
+**Invasions**: understanding how demography, phylogeny, and functional traits interact to determine who becomes invasive and who remains benign.
 
-**Invasions**: understanding how demography, phylogeny, and functional traits interact to determine who becomes invasive and who remains benign
-
-**Open Source Software**: creating tools for researchers to efficiently analyze, publish, and share their data
+**Software Development**: creating open source tools for researchers to efficiently analyze, publish, and share their data.
 
 # Publications
 
 ## Journal Articles
 $^\ast$ _denotes mentee_
 
-**Levin SC**, Crandall RM, Pokoski TC$^\ast$, Stein  & Knight TM. Phylogenetic and functional novelty explain alien plant population responses to competition. _In review_
+**Levin SC**, Crandall RM, Pokoski TC$^\ast$, Stein  & Knight TM (2020). Phylogenetic and functional distinctiveness explain alien plant population responses to competition. Proceedings of the Royal Society B. 287: 20201070. DOI: 10.1098/rspb.2020.1070
 
 Sandel B, Weigelt P, Kreft H, Keppel G, van der Sande MT, **Levin SC**, Smith S, Craven DC & Knight TM (2019). Current climate, isolation, and history drive global patterns of tree phylogenetic endemism. Global Ecology and Biogeography. DOI: 10.1111/geb.13001
 
@@ -87,7 +85,7 @@ Carl G, **Levin SC**, Kühn I. (2018) spind: an R Package to Account for Spatial
 
 ## Workshops & Invited Talks
 
-**Levin SC**. Invasive plants: research, control, and what you can do to help! Point Reyes National Park, May 2020.
+**Levin SC**. Invasive plants: research, control, and what you can do to help! Point Reyes National Park, May 2020. (Cancelled due to COVID-19 pandemic).
 
 **Levin SC** & Salguero-Gomez R. Effective, efficient, and safe data collection with UAVs. Oxford University, January 2020.
 
@@ -125,9 +123,9 @@ Van Horn T$^\ast$, Galluppi CG, **Levin SC**, Knight TM. Examining the enemy rel
 
 Maintainer (current) and developer (> v2.0.0) of *spind*. [CRAN](https://cran.r-project.org/web/checks/check_results_spind.html) and [Github](https://github.com/levisc8/spind)
 
-Maintainer and developer of *ipmr*. [Github](https://github.com/levisc8/ipmr)
+Maintainer and developer of *ipmr*. [Project page](https://levisc8.github.io/ipmr/)
 
-Maintainer and developer of the *Padrino IPM Database* and *Rpadrino*. [Project page](https://levisc8.github.io/Padrino.github.io/)
+Maintainer and developer of the *Padrino IPM Database* and *Rpadrino*. [Project page](https://github.com/levisc8/RPadrino)
 
 Contributed to development of [popler](https://github.com/AldoCompagnoni/popler), [popdemo](https://github.com/iainmstott/popdemo), [Rcompadre](https://github.com/jonesor/Rcompadre),
 and [Rage](https://github.com/jonesor/Rage).
@@ -143,6 +141,8 @@ United States FAA Part 107 UAV Pilot License
 United States NPS S212 A Faller
 
 # Mentoring
+
+Ana Bogdan \hfill Babe\c s-Bolyai University, Cluj-Napoca, Romania
 
 Tyler Pokoski \hfill  University of Iowa 2017
 
@@ -166,13 +166,13 @@ Elizabeth Poor \hfill Clayton High School 2017
 
 # Service
 
-Reviewer for BMC Ecology, Annals of Botany, and Plant Ecology
+Reviewer for rOpenSci, BMC Ecology, Annals of Botany, and Plant Ecology
 
 # Referees
 
 **Dr. Tiffany Knight**
 
-Martin Luther University, Helmholtz-Zentrum fuer Umweltforschung, German Centre for Integrative Biodiversity
+Martin Luther University, Helmholtz-Zentrum für Umweltforschung, German Centre for Integrative Biodiversity
 
 <tiffany.knight@idiv.de>
 
