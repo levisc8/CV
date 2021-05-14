@@ -61,28 +61,24 @@ Field Research Technician \hfill 2014 - 2015
 
 National Park Service Southeast EPMT Intern \hfill 2013 - 2014
 
-# Research Interests
-
-**Invasions**: understanding how demography, phylogeny, and functional traits interact to determine who becomes invasive and who remains benign.
-
-**Software Development**: creating open source tools for researchers to efficiently analyze, publish, and share their data.
-
 # Publications
 
 ## Journal Articles
 $^\ast$ _denotes mentee_
 
-**Levin SC**, Evers S, Pena-Guerrero M, Compagnoni AC, Childs DZ, Knight TM & Salguero-Gomez R (_in prep_). Padrino: An open access database of Integral Projection Models.
+**Levin SC**, Evers S$^\ast$, Pena-Guerrero M, Compagnoni AC, Childs DZ, Knight TM & Salguero-Gomez R (_in prep_). Padrino: An open access database of Integral Projection Models.
 
-**Levin SC**, Compagnoni AC, Salguero-Gomez R, Childs DZ, Evers S & Knight TM (_in prep_). ipmr: Flexibly implement Integral Projection Models in R. 
+Keppel G, Craven D, Weigelt P, Smith SA, van der Sande MT, Sandel B, **Levin SC**, Kreft H & Knight TM (2021). Synthesizing tree biodiversity data to understand global patterns and processes of vegetation. Journal of Vegetation Science. DOI: 10.1111/jvs.13021
 
-Bogdan A$^\ast$, **Levin SC**, Salguero-Gomez R & Knight TM. (_in prep_). Demographic analysis of Israeli _Carpobrotus_ populations: management strategies and future directions.
+**Levin SC**, Compagnoni AC, Salguero-Gomez R, Childs DZ, Evers S$^\ast$ & Knight TM (_in review_ at _Methods in Ecology and Evolution_). ipmr: Flexibly implement Integral Projection Models in R. 
 
-Compagnoni AC, **Levin SC**, Childs DZ, Harpole S, Paniw M, Romer G, _et al._ (_in review_). Short-lived plants have stronger demographic responses to climate. Nature Communications. bioRxiv DOI: 10.1101/2020.06.18.160135
+Bogdan A$^\ast$, **Levin SC**, Salguero-Gomez R & Knight TM. (2021). Demographic analysis of an Israeli _Carpobrotus_ population. Plos One. DOI: 10.1371/journal.pone.0250879.
 
-**Levin SC**, Crandall RM, Pokoski TC$^\ast$, Stein C & Knight TM (2020). Phylogenetic and functional distinctiveness explain alien plant population responses to competition. Proceedings of the Royal Society B.  287: 20201070. DOI: 10.1098/rspb.2020.1070
+Paniw M, James T, Archer CR, Romer G, **Levin SC**, Compagnoni AC, _et al._ (2021). Global analysis reveals complex demographic responses of mammals to climate change. Journal of Animal Ecology. DOI: 10.1111/1365-2656.13467
 
-Paniw M, James T, Archer CR, Romer G, **Levin SC**, Compagnoni AC, _et al._ (_in review_). Global analysis reveals complex demographic responses of mammals to climate change.  Journal of Animal Ecology. bioRxiv DOI: 10.1101/2019.12.16.878348
+Compagnoni AC, **Levin SC**, Childs DZ, Harpole S, Paniw M, Romer G, _et al._ (2021). Short-lived plants have stronger demographic responses to climate. Nature Communications. Nature Communications. DOI: 10.1038/s41467-021-21977-9
+
+**Levin SC**, Crandall RM, Pokoski TC$^\ast$, Stein C & Knight TM (2020). Phylogenetic and functional distinctiveness explain alien plant population responses to competition. Proceedings of the Royal Society B. DOI: 10.1098/rspb.2020.1070
 
 Sandel B, Weigelt P, Kreft H, Keppel G, van der Sande MT, **Levin SC**, Smith S, Craven DC & Knight TM (2019). Current climate, isolation, and history drive global patterns of tree phylogenetic endemism. Global Ecology and Biogeography. DOI: 10.1111/geb.13001
 
@@ -90,8 +86,7 @@ Compagnoni A, Bibian BJ, Ochocki BM, **Levin SC**, Zhu K & Miller TEX (2019). po
 
 **Levin SC**, Crandall RM, Knight TM (2019) Population projection models for 14 alien plant species in the presence and absence of above‐ground competition. Ecology. DOI: 10.1002/ecy.2681 
 
-Carl G, **Levin SC**, Kühn I. (2018) spind: an R Package to Account for Spatial Autocorrelation in the Analysis of Lattice Data. Biodiversity Data Journal.
-6: e20760. DOI: 10.3897/BDJ.6.e20760
+Carl G, **Levin SC**, Kühn I. (2018) spind: an R Package to Account for Spatial Autocorrelation in the Analysis of Lattice Data. Biodiversity Data Journal. DOI: 10.3897/BDJ.6.e20760
 
 ## Workshops & Invited Talks
 
@@ -99,11 +94,14 @@ Carl G, **Levin SC**, Kühn I. (2018) spind: an R Package to Account for Spatial
 
 **Levin SC** & Salguero-Gomez R. Effective, efficient, and safe data collection with UAVs. Oxford University, January 2020.
 
-Salguero-Gomez R, Jones OR, _et al._ A gentle introduction to the COMADRE & COMPADRE databases for demographic analyses. British Ecological Society, Belfast, December 2019.
+Salguero-Gomez R, Jones OR, _et al._ A  gentle introduction to the COMADRE & COMPADRE databases for demographic analyses. British Ecological Society, Belfast, December 2019.
 
 ## Presentations
 $^\ast$ _denotes mentee; $^\#$ denotes poster presentations, otherwise oral_
 
+**2020**
+
+Salguero-Gomez R,Che-Castaldo JP, Jones O, Caswell H, Ezard T, Hernandez-Yanez H, Hodgson D, Knight TM, **Levin SC**, Stott I, Thomas C, Vaupel J. (2020) The next generation of demographic databases: Building and delivering a distributed network for user contributions and engagement. Ecological Society of America
 
 **2018**
 
@@ -131,9 +129,9 @@ Van Horn T$^\ast$, Galluppi CG, **Levin SC**, Knight TM. Examining the enemy rel
 
 # Software
 
-Maintainer (current) and developer (> v2.0.0) of *spind*. [CRAN](https://cran.r-project.org/web/checks/check_results_spind.html) and [Github](https://github.com/levisc8/spind)
+Maintainer (current) and developer (> v2.0.0) of *spind*. [Project page](https://github.com/levisc8/spind) and  [CRAN](https://cran.r-project.org/package=spind)
 
-Maintainer and developer of *ipmr*. [Project page](https://levisc8.github.io/ipmr/)
+Maintainer and developer of *ipmr*. [Project page](https://levisc8.github.io/ipmr/) and [CRAN](https://cran.r-project.org/package=ipmr)
 
 Maintainer and developer of the *Padrino IPM Database* and *Rpadrino*. [Project page](https://github.com/levisc8/RPadrino)
 
@@ -151,6 +149,8 @@ United States FAA Part 107 UAV Pilot License
 United States NPS S212 A Faller
 
 # Mentoring
+
+Sanne Evers \hfill Helmholtz-Zentrum für Umweltforschung 
 
 Ana Bogdan \hfill Babe\c s-Bolyai University, Cluj-Napoca, Romania
 
