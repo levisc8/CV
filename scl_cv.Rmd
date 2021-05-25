@@ -70,7 +70,7 @@ $^\ast$ _denotes mentee_
 
 Keppel G, Craven D, Weigelt P, Smith SA, van der Sande MT, Sandel B, **Levin SC**, Kreft H & Knight TM (2021). Synthesizing tree biodiversity data to understand global patterns and processes of vegetation. Journal of Vegetation Science. DOI: 10.1111/jvs.13021
 
-**Levin SC**, Compagnoni AC, Salguero-Gomez R, Childs DZ, Evers S$^\ast$ & Knight TM (_in review_ at _Methods in Ecology and Evolution_). ipmr: Flexibly implement Integral Projection Models in R. 
+**Levin SC**, Childs DZ, Compagnoni AC, Evers S$^\ast$, Knight TM & Salguero-Gomez R (_in review_ at _Methods in Ecology and Evolution_). ipmr: Flexibly implement Integral Projection Models in R. 
 
 Bogdan A$^\ast$, **Levin SC**, Salguero-Gomez R & Knight TM. (2021). Demographic analysis of an Israeli _Carpobrotus_ population. Plos One. DOI: 10.1371/journal.pone.0250879.
 
@@ -89,6 +89,8 @@ Compagnoni A, Bibian BJ, Ochocki BM, **Levin SC**, Zhu K & Miller TEX (2019). po
 Carl G, **Levin SC**, Kühn I. (2018) spind: an R Package to Account for Spatial Autocorrelation in the Analysis of Lattice Data. Biodiversity Data Journal. DOI: 10.3897/BDJ.6.e20760
 
 ## Workshops & Invited Talks
+
+**Levin SC**, Childs DZ, Compagnoni AC, Evers S, Knight TM & Salguero-Gomez R. `ipmr`: An R Package for Easy and Flexible Construction and Interpretation of Integral Projection Models. Ecological Society of America, Long Beach, August 2021.
 
 **Levin SC**. Invasive plants: research, control, and what you can do to help! Point Reyes National Park, May 2020. (Cancelled due to COVID-19 pandemic).
 
@@ -133,9 +135,9 @@ Maintainer (current) and developer (> v2.0.0) of *spind*. [Project page](https:/
 
 Maintainer and developer of *ipmr*. [Project page](https://levisc8.github.io/ipmr/) and [CRAN](https://cran.r-project.org/package=ipmr)
 
-Maintainer and developer of the *Padrino IPM Database* and *Rpadrino*. [Project page](https://github.com/levisc8/RPadrino)
+Maintainer and developer of the *Padrino IPM Database* and *Rpadrino*. [Project page](https://levisc8.github.io/Padrino/).
 
-Contributed to development of [popler](https://github.com/AldoCompagnoni/popler), [popdemo](https://github.com/iainmstott/popdemo), [Rcompadre](https://github.com/jonesor/Rcompadre),
+Contributed to development of [popler](https://github.com/AldoCompagnoni/popler), [bRacatus](https://github.com/EduardoArle/bRacatus), [plotbiomes](https://github.com/valentinitnelav/plotbiomes), [popdemo](https://github.com/iainmstott/popdemo), [Rcompadre](https://github.com/jonesor/Rcompadre),
 and [Rage](https://github.com/jonesor/Rage).
 
 # Languages
