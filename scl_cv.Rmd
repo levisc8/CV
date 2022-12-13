@@ -15,7 +15,7 @@ github: levisc8
 jobtitle: ''
 linkcolor: blue
 fontawesome: yes
-address: German Centre for Integrative Biodiversity, Deutscherplatz 5e, Leipzig, Germany
+address: German Centre for Integrative Biodiversity, Puschstrasse 4, Leipzig, Germany
 twitter: SamLevin5
 updated: null
 urlcolor: blue
@@ -36,6 +36,10 @@ MSc Biology \hfill 2016-2017
 BA Biology \hfill 2008-2012
 
 # Work Experience
+
+*Pivot Bio* 
+
+Data Scientist I \hfill 2022-Present
 
 *Martin Luther University Halle-Wittenberg*
 
@@ -61,16 +65,19 @@ Field Research Technician \hfill 2014 - 2015
 
 National Park Service Southeast EPMT Intern \hfill 2013 - 2014
 
+\newpage
 # Publications
 
 ## Journal Articles
 $^\ast$ _denotes mentee_
 
-**Levin SC**, Evers S$^\ast$, Pena-Guerrero M, Compagnoni AC, Childs DZ, Knight TM & Salguero-Gomez R (_in prep_). Padrino: An open access database of Integral Projection Models.
+**Levin SC**, Evers S$^\ast$, Pena-Guerrero M, Compagnoni AC, Childs DZ, Knight TM & Salguero-Gomez R (2022). Rpadrino: an R package to access and use PADRINO, an open access database of Integral Projection Models. Methods in Ecology and Evolution. DOI: 10.1111/2041-210X.13910
+
+Jones OR, Barks P, Stott I, James TD, **Levin SC**, Petry WK _et al._ (2022). Rcompadre and Rage—Two R packages to facilitate the use of the COMPADRE and COMADRE databases and calculation of life-history traits from matrix population models. Methods in Ecology and Evolution. DOI: 10.1111/2041-210X.13792
+
+**Levin SC**, Childs DZ, Compagnoni AC, Evers S$^\ast$, Knight TM & Salguero-Gomez R (2021). ipmr: Flexible implementation of Integral Projection Models in R. Methods in Ecology and Evolution. DOI: 10.1111/2041-210X.13683
 
 Keppel G, Craven D, Weigelt P, Smith SA, van der Sande MT, Sandel B, **Levin SC**, Kreft H & Knight TM (2021). Synthesizing tree biodiversity data to understand global patterns and processes of vegetation. Journal of Vegetation Science. DOI: 10.1111/jvs.13021
-
-**Levin SC**, Childs DZ, Compagnoni AC, Evers S$^\ast$, Knight TM & Salguero-Gomez R (_in review_ at _Methods in Ecology and Evolution_). ipmr: Flexibly implement Integral Projection Models in R. 
 
 Bogdan A$^\ast$, **Levin SC**, Salguero-Gomez R & Knight TM. (2021). Demographic analysis of an Israeli _Carpobrotus_ population. Plos One. DOI: 10.1371/journal.pone.0250879.
 
@@ -92,7 +99,7 @@ Carl G, **Levin SC**, Kühn I. (2018) spind: an R Package to Account for Spatial
 
 **Levin SC**, Childs DZ, Compagnoni AC, Evers S, Knight TM & Salguero-Gomez R. `ipmr`: An R Package for Easy and Flexible Construction and Interpretation of Integral Projection Models. Ecological Society of America, Long Beach, August 2021.
 
-**Levin SC**. Invasive plants: research, control, and what you can do to help! Point Reyes National Park, May 2020. (Cancelled due to COVID-19 pandemic).
+**Levin SC**. Invasive plants: research, control, and what you can do to help! Point Reyes National Seashore, May 2020. (Cancelled due to COVID-19 pandemic).
 
 **Levin SC** & Salguero-Gomez R. Effective, efficient, and safe data collection with UAVs. Oxford University, January 2020.
 
@@ -131,18 +138,18 @@ Van Horn T$^\ast$, Galluppi CG, **Levin SC**, Knight TM. Examining the enemy rel
 
 # Software
 
-Maintainer (current) and developer (> v2.0.0) of *spind*. [Project page](https://github.com/levisc8/spind) and  [CRAN](https://cran.r-project.org/package=spind)
+Maintainer (current) and developer (> v2.0.0) of *spind*. [Project page](https://github.com/levisc8/spind) and  [CRAN](https://cran.r-project.org/package=spind).
 
-Maintainer and developer of *ipmr*. [Project page](https://levisc8.github.io/ipmr/) and [CRAN](https://cran.r-project.org/package=ipmr)
+Maintainer and developer of *ipmr*. [Project page](https://padrinoDB.github.io/ipmr/) and [CRAN](https://cran.r-project.org/package=ipmr).
 
-Maintainer and developer of the *Padrino IPM Database* and *Rpadrino*. [Project page](https://levisc8.github.io/Padrino/).
+Maintainer and developer of the *PADRINO IPM Database* and *Rpadrino*. [PADRINO page](https://padrinoDB.github.io/Padrino/) and [RPadrino page](https://padrinoDB.github.io/RPadrino/).
 
-Contributed to development of [popler](https://github.com/AldoCompagnoni/popler), [bRacatus](https://github.com/EduardoArle/bRacatus), [plotbiomes](https://github.com/valentinitnelav/plotbiomes), [popdemo](https://github.com/iainmstott/popdemo), [Rcompadre](https://github.com/jonesor/Rcompadre),
+Contributed to development of [popler](https://github.com/ropensci/popler), [bRacatus](https://github.com/EduardoArle/bRacatus), [taxlist](https://github.com/ropensci/taxlist),  [plotbiomes](https://github.com/valentinitnelav/plotbiomes), [popdemo](https://github.com/iainmstott/popdemo), [Rcompadre](https://github.com/jonesor/Rcompadre),
 and [Rage](https://github.com/jonesor/Rage).
 
 # Languages
 
-Fluent in English and R, proficient with Stan, Git, and C++, and familiar with Python and German.
+Fluent in English and R, proficient with Stan, Git, shell, and C++, and familiar with Python and German.
 
 # Certifications
 
@@ -178,7 +185,7 @@ Elizabeth Poor \hfill Clayton High School 2017
 
 # Service
 
-Reviewer for rOpenSci, BMC Ecology, Annals of Botany, and Plant Ecology
+Reviewer for rOpenSci, Functional Ecology, BMC Ecology, Annals of Botany, and Plant Ecology
 
 # Referees
 
